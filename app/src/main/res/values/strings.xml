@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">task101</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string-array name="data">
+        <item>line 1</item>
+        <item>line 2</item>
+        <item>line 3</item>
+        <item>line 4</item>
+
+    </string-array>
+    <string-array name="description">
+        <item>this is line 1</item>
+        <item>this is line 2</item>
+        <item>this is line 3</item>
+        <item>this is line 4</item>
+
+    </string-array>
+</resources>
